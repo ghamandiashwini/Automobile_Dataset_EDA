@@ -114,8 +114,9 @@ The project includes several visualizations, including:
 ```
 Automobile_Dataset_EDA/
 │
-├── Automobile_EDA.ipynb
-├── automobile.csv
+├── EDA Report – Automobile Dataset
+├── automobiles.ipynb
+├── automobiles.csv
 ├── README.md
 ```
 
@@ -126,7 +127,7 @@ Automobile_Dataset_EDA/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/Automobile_Dataset_EDA.git
+git clone https://github.com/ghamandiashwini/Automobile_Dataset_EDA.git
 ```
 
 2. Navigate to the project folder
